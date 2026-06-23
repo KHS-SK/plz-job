@@ -74,12 +74,12 @@ plz-job/
 
 ## 문서
 
-| 문서                                                         | 내용                             |
-| ------------------------------------------------------------ | -------------------------------- |
-| [docs/plz_job_requirements.md](docs/plz_job_requirements.md) | 요구사항 정의서 (단일 기준 문서) |
-| [docs/API\_명세서.md](docs/API_명세서.md)                    | REST API 명세 (엔드포인트 41종)  |
-| [docs/DB\_설계서.md](docs/DB_설계서.md)                      | 물리 데이터 모델 (테이블 16종)   |
-| [etl/README.md](etl/README.md)                               | ETL 파이프라인 실행·적재 가이드  |
+| 문서                                                | 내용                                 |
+| --------------------------------------------------- | ------------------------------------ |
+| [docs/요구사항\_정의서.md](docs/요구사항_정의서.md) | 요구사항 정의서 (단일 기준 문서)     |
+| [docs/API\_명세서.md](docs/API_명세서.md)           | REST API 명세 (엔드포인트 41종)      |
+| [docs/DB\_설계서.md](docs/DB_설계서.md)             | 물리 데이터 모델 (테이블 16종)       |
+| [frontend/README.md](frontend/README.md)            | Frontend 파이프라인 실행·적재 가이드 |
 
 ## 빠른 시작
 
